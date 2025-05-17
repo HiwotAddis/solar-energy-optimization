@@ -5,7 +5,7 @@ A data analytics project to identify high-potential regions for solar investment
 ## 📦 Environment Setup
 
 ```bash
-git clone https://github.com/your-username/solar-energy-optimization.git
+git clone https://github.com/HiwotAddis/solar-energy-optimization.git
 cd solar-energy-optimization
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
