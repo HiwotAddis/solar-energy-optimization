@@ -12,6 +12,9 @@ build/
 develop-eggs/
 dist/
 downloads/
+data/
+*.csv
+.ipynb_checkpoints/
 eggs/
 .eggs/
 lib/
